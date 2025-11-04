@@ -7,3 +7,7 @@ Don't be surprised if the bot is not profitable; the real motivation for this pr
 ## External API Docs
 - Polymarket API: https://developers.polymarket.io/docs
 - ProphetX API: https://docs.prophetx.com/en/latest/index.html
+
+## TODO:
+- [ ] wss for polymarket
+- [ ] write to log file
